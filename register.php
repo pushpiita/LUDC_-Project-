@@ -12,7 +12,7 @@
 
   <input type="text" name="department" placeholder="Department" required><br>
 
-  <input type="text" name="position" placeholder="Preferred Speaking Position" pattern="[A-Za-z\s]{2,30}" required><br>
+  <input type="text" name="position" placeholder="Preferred Speaking Position" required><br>
 
   <input type="text" name="debate_types" placeholder="Types of Debate (e.g., BP, AP)" required><br>
 
